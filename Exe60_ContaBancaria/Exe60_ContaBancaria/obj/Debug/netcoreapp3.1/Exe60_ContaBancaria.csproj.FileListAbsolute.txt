@@ -1,0 +1,13 @@
+C:\Users\power\source\repos\Exe60_ContaBancaria\Exe60_ContaBancaria\bin\Debug\netcoreapp3.1\Exe60_ContaBancaria.exe
+C:\Users\power\source\repos\Exe60_ContaBancaria\Exe60_ContaBancaria\bin\Debug\netcoreapp3.1\Exe60_ContaBancaria.deps.json
+C:\Users\power\source\repos\Exe60_ContaBancaria\Exe60_ContaBancaria\bin\Debug\netcoreapp3.1\Exe60_ContaBancaria.runtimeconfig.json
+C:\Users\power\source\repos\Exe60_ContaBancaria\Exe60_ContaBancaria\bin\Debug\netcoreapp3.1\Exe60_ContaBancaria.runtimeconfig.dev.json
+C:\Users\power\source\repos\Exe60_ContaBancaria\Exe60_ContaBancaria\bin\Debug\netcoreapp3.1\Exe60_ContaBancaria.dll
+C:\Users\power\source\repos\Exe60_ContaBancaria\Exe60_ContaBancaria\bin\Debug\netcoreapp3.1\Exe60_ContaBancaria.pdb
+C:\Users\power\source\repos\Exe60_ContaBancaria\Exe60_ContaBancaria\obj\Debug\netcoreapp3.1\Exe60_ContaBancaria.csprojAssemblyReference.cache
+C:\Users\power\source\repos\Exe60_ContaBancaria\Exe60_ContaBancaria\obj\Debug\netcoreapp3.1\Exe60_ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\power\source\repos\Exe60_ContaBancaria\Exe60_ContaBancaria\obj\Debug\netcoreapp3.1\Exe60_ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\power\source\repos\Exe60_ContaBancaria\Exe60_ContaBancaria\obj\Debug\netcoreapp3.1\Exe60_ContaBancaria.AssemblyInfo.cs
+C:\Users\power\source\repos\Exe60_ContaBancaria\Exe60_ContaBancaria\obj\Debug\netcoreapp3.1\Exe60_ContaBancaria.dll
+C:\Users\power\source\repos\Exe60_ContaBancaria\Exe60_ContaBancaria\obj\Debug\netcoreapp3.1\Exe60_ContaBancaria.pdb
+C:\Users\power\source\repos\Exe60_ContaBancaria\Exe60_ContaBancaria\obj\Debug\netcoreapp3.1\Exe60_ContaBancaria.genruntimeconfig.cache
