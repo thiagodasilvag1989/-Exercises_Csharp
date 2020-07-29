@@ -1,0 +1,13 @@
+C:\Users\power\source\repos\Exe_Class_02\Exe_Class_02\bin\Debug\netcoreapp3.1\Exe_Class_02.exe
+C:\Users\power\source\repos\Exe_Class_02\Exe_Class_02\bin\Debug\netcoreapp3.1\Exe_Class_02.deps.json
+C:\Users\power\source\repos\Exe_Class_02\Exe_Class_02\bin\Debug\netcoreapp3.1\Exe_Class_02.runtimeconfig.json
+C:\Users\power\source\repos\Exe_Class_02\Exe_Class_02\bin\Debug\netcoreapp3.1\Exe_Class_02.runtimeconfig.dev.json
+C:\Users\power\source\repos\Exe_Class_02\Exe_Class_02\bin\Debug\netcoreapp3.1\Exe_Class_02.dll
+C:\Users\power\source\repos\Exe_Class_02\Exe_Class_02\bin\Debug\netcoreapp3.1\Exe_Class_02.pdb
+C:\Users\power\source\repos\Exe_Class_02\Exe_Class_02\obj\Debug\netcoreapp3.1\Exe_Class_02.csprojAssemblyReference.cache
+C:\Users\power\source\repos\Exe_Class_02\Exe_Class_02\obj\Debug\netcoreapp3.1\Exe_Class_02.csproj.CoreCompileInputs.cache
+C:\Users\power\source\repos\Exe_Class_02\Exe_Class_02\obj\Debug\netcoreapp3.1\Exe_Class_02.AssemblyInfoInputs.cache
+C:\Users\power\source\repos\Exe_Class_02\Exe_Class_02\obj\Debug\netcoreapp3.1\Exe_Class_02.AssemblyInfo.cs
+C:\Users\power\source\repos\Exe_Class_02\Exe_Class_02\obj\Debug\netcoreapp3.1\Exe_Class_02.dll
+C:\Users\power\source\repos\Exe_Class_02\Exe_Class_02\obj\Debug\netcoreapp3.1\Exe_Class_02.pdb
+C:\Users\power\source\repos\Exe_Class_02\Exe_Class_02\obj\Debug\netcoreapp3.1\Exe_Class_02.genruntimeconfig.cache

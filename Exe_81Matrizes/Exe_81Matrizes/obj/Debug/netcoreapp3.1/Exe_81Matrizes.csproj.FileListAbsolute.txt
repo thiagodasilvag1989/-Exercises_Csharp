@@ -1,0 +1,13 @@
+C:\Users\power\source\repos\Exe_81Matrizes\Exe_81Matrizes\bin\Debug\netcoreapp3.1\Exe_81Matrizes.exe
+C:\Users\power\source\repos\Exe_81Matrizes\Exe_81Matrizes\bin\Debug\netcoreapp3.1\Exe_81Matrizes.deps.json
+C:\Users\power\source\repos\Exe_81Matrizes\Exe_81Matrizes\bin\Debug\netcoreapp3.1\Exe_81Matrizes.runtimeconfig.json
+C:\Users\power\source\repos\Exe_81Matrizes\Exe_81Matrizes\bin\Debug\netcoreapp3.1\Exe_81Matrizes.runtimeconfig.dev.json
+C:\Users\power\source\repos\Exe_81Matrizes\Exe_81Matrizes\bin\Debug\netcoreapp3.1\Exe_81Matrizes.dll
+C:\Users\power\source\repos\Exe_81Matrizes\Exe_81Matrizes\bin\Debug\netcoreapp3.1\Exe_81Matrizes.pdb
+C:\Users\power\source\repos\Exe_81Matrizes\Exe_81Matrizes\obj\Debug\netcoreapp3.1\Exe_81Matrizes.csprojAssemblyReference.cache
+C:\Users\power\source\repos\Exe_81Matrizes\Exe_81Matrizes\obj\Debug\netcoreapp3.1\Exe_81Matrizes.AssemblyInfoInputs.cache
+C:\Users\power\source\repos\Exe_81Matrizes\Exe_81Matrizes\obj\Debug\netcoreapp3.1\Exe_81Matrizes.AssemblyInfo.cs
+C:\Users\power\source\repos\Exe_81Matrizes\Exe_81Matrizes\obj\Debug\netcoreapp3.1\Exe_81Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\power\source\repos\Exe_81Matrizes\Exe_81Matrizes\obj\Debug\netcoreapp3.1\Exe_81Matrizes.dll
+C:\Users\power\source\repos\Exe_81Matrizes\Exe_81Matrizes\obj\Debug\netcoreapp3.1\Exe_81Matrizes.pdb
+C:\Users\power\source\repos\Exe_81Matrizes\Exe_81Matrizes\obj\Debug\netcoreapp3.1\Exe_81Matrizes.genruntimeconfig.cache

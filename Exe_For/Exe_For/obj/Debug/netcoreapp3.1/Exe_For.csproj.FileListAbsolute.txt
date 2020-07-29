@@ -1,0 +1,13 @@
+C:\Users\power\source\repos\Exe_For\Exe_For\bin\Debug\netcoreapp3.1\Exe_For.exe
+C:\Users\power\source\repos\Exe_For\Exe_For\bin\Debug\netcoreapp3.1\Exe_For.deps.json
+C:\Users\power\source\repos\Exe_For\Exe_For\bin\Debug\netcoreapp3.1\Exe_For.runtimeconfig.json
+C:\Users\power\source\repos\Exe_For\Exe_For\bin\Debug\netcoreapp3.1\Exe_For.runtimeconfig.dev.json
+C:\Users\power\source\repos\Exe_For\Exe_For\bin\Debug\netcoreapp3.1\Exe_For.dll
+C:\Users\power\source\repos\Exe_For\Exe_For\bin\Debug\netcoreapp3.1\Exe_For.pdb
+C:\Users\power\source\repos\Exe_For\Exe_For\obj\Debug\netcoreapp3.1\Exe_For.csprojAssemblyReference.cache
+C:\Users\power\source\repos\Exe_For\Exe_For\obj\Debug\netcoreapp3.1\Exe_For.csproj.CoreCompileInputs.cache
+C:\Users\power\source\repos\Exe_For\Exe_For\obj\Debug\netcoreapp3.1\Exe_For.AssemblyInfoInputs.cache
+C:\Users\power\source\repos\Exe_For\Exe_For\obj\Debug\netcoreapp3.1\Exe_For.AssemblyInfo.cs
+C:\Users\power\source\repos\Exe_For\Exe_For\obj\Debug\netcoreapp3.1\Exe_For.dll
+C:\Users\power\source\repos\Exe_For\Exe_For\obj\Debug\netcoreapp3.1\Exe_For.pdb
+C:\Users\power\source\repos\Exe_For\Exe_For\obj\Debug\netcoreapp3.1\Exe_For.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\power\source\repos\Exe_78Listas\Exe_78Listas\bin\Debug\netcoreapp3.1\Exe_78Listas.exe
+C:\Users\power\source\repos\Exe_78Listas\Exe_78Listas\bin\Debug\netcoreapp3.1\Exe_78Listas.deps.json
+C:\Users\power\source\repos\Exe_78Listas\Exe_78Listas\bin\Debug\netcoreapp3.1\Exe_78Listas.runtimeconfig.json
+C:\Users\power\source\repos\Exe_78Listas\Exe_78Listas\bin\Debug\netcoreapp3.1\Exe_78Listas.runtimeconfig.dev.json
+C:\Users\power\source\repos\Exe_78Listas\Exe_78Listas\bin\Debug\netcoreapp3.1\Exe_78Listas.dll
+C:\Users\power\source\repos\Exe_78Listas\Exe_78Listas\bin\Debug\netcoreapp3.1\Exe_78Listas.pdb
+C:\Users\power\source\repos\Exe_78Listas\Exe_78Listas\obj\Debug\netcoreapp3.1\Exe_78Listas.csprojAssemblyReference.cache
+C:\Users\power\source\repos\Exe_78Listas\Exe_78Listas\obj\Debug\netcoreapp3.1\Exe_78Listas.AssemblyInfoInputs.cache
+C:\Users\power\source\repos\Exe_78Listas\Exe_78Listas\obj\Debug\netcoreapp3.1\Exe_78Listas.AssemblyInfo.cs
+C:\Users\power\source\repos\Exe_78Listas\Exe_78Listas\obj\Debug\netcoreapp3.1\Exe_78Listas.csproj.CoreCompileInputs.cache
+C:\Users\power\source\repos\Exe_78Listas\Exe_78Listas\obj\Debug\netcoreapp3.1\Exe_78Listas.dll
+C:\Users\power\source\repos\Exe_78Listas\Exe_78Listas\obj\Debug\netcoreapp3.1\Exe_78Listas.pdb
+C:\Users\power\source\repos\Exe_78Listas\Exe_78Listas\obj\Debug\netcoreapp3.1\Exe_78Listas.genruntimeconfig.cache

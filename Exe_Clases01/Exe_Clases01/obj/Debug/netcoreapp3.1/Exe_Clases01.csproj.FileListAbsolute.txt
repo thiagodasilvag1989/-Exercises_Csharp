@@ -1,0 +1,13 @@
+C:\Users\power\source\repos\Exe_Clases01\Exe_Clases01\bin\Debug\netcoreapp3.1\Exe_Clases01.exe
+C:\Users\power\source\repos\Exe_Clases01\Exe_Clases01\bin\Debug\netcoreapp3.1\Exe_Clases01.deps.json
+C:\Users\power\source\repos\Exe_Clases01\Exe_Clases01\bin\Debug\netcoreapp3.1\Exe_Clases01.runtimeconfig.json
+C:\Users\power\source\repos\Exe_Clases01\Exe_Clases01\bin\Debug\netcoreapp3.1\Exe_Clases01.runtimeconfig.dev.json
+C:\Users\power\source\repos\Exe_Clases01\Exe_Clases01\bin\Debug\netcoreapp3.1\Exe_Clases01.dll
+C:\Users\power\source\repos\Exe_Clases01\Exe_Clases01\bin\Debug\netcoreapp3.1\Exe_Clases01.pdb
+C:\Users\power\source\repos\Exe_Clases01\Exe_Clases01\obj\Debug\netcoreapp3.1\Exe_Clases01.csprojAssemblyReference.cache
+C:\Users\power\source\repos\Exe_Clases01\Exe_Clases01\obj\Debug\netcoreapp3.1\Exe_Clases01.csproj.CoreCompileInputs.cache
+C:\Users\power\source\repos\Exe_Clases01\Exe_Clases01\obj\Debug\netcoreapp3.1\Exe_Clases01.AssemblyInfoInputs.cache
+C:\Users\power\source\repos\Exe_Clases01\Exe_Clases01\obj\Debug\netcoreapp3.1\Exe_Clases01.AssemblyInfo.cs
+C:\Users\power\source\repos\Exe_Clases01\Exe_Clases01\obj\Debug\netcoreapp3.1\Exe_Clases01.dll
+C:\Users\power\source\repos\Exe_Clases01\Exe_Clases01\obj\Debug\netcoreapp3.1\Exe_Clases01.pdb
+C:\Users\power\source\repos\Exe_Clases01\Exe_Clases01\obj\Debug\netcoreapp3.1\Exe_Clases01.genruntimeconfig.cache
