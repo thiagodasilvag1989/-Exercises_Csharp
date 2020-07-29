@@ -1,0 +1,13 @@
+C:\Users\power\source\repos\Exe_123Order\Exe_123Order\bin\Debug\netcoreapp3.1\Exe_123Order.exe
+C:\Users\power\source\repos\Exe_123Order\Exe_123Order\bin\Debug\netcoreapp3.1\Exe_123Order.deps.json
+C:\Users\power\source\repos\Exe_123Order\Exe_123Order\bin\Debug\netcoreapp3.1\Exe_123Order.runtimeconfig.json
+C:\Users\power\source\repos\Exe_123Order\Exe_123Order\bin\Debug\netcoreapp3.1\Exe_123Order.runtimeconfig.dev.json
+C:\Users\power\source\repos\Exe_123Order\Exe_123Order\bin\Debug\netcoreapp3.1\Exe_123Order.dll
+C:\Users\power\source\repos\Exe_123Order\Exe_123Order\bin\Debug\netcoreapp3.1\Exe_123Order.pdb
+C:\Users\power\source\repos\Exe_123Order\Exe_123Order\obj\Debug\netcoreapp3.1\Exe_123Order.csprojAssemblyReference.cache
+C:\Users\power\source\repos\Exe_123Order\Exe_123Order\obj\Debug\netcoreapp3.1\Exe_123Order.AssemblyInfoInputs.cache
+C:\Users\power\source\repos\Exe_123Order\Exe_123Order\obj\Debug\netcoreapp3.1\Exe_123Order.AssemblyInfo.cs
+C:\Users\power\source\repos\Exe_123Order\Exe_123Order\obj\Debug\netcoreapp3.1\Exe_123Order.csproj.CoreCompileInputs.cache
+C:\Users\power\source\repos\Exe_123Order\Exe_123Order\obj\Debug\netcoreapp3.1\Exe_123Order.dll
+C:\Users\power\source\repos\Exe_123Order\Exe_123Order\obj\Debug\netcoreapp3.1\Exe_123Order.pdb
+C:\Users\power\source\repos\Exe_123Order\Exe_123Order\obj\Debug\netcoreapp3.1\Exe_123Order.genruntimeconfig.cache
