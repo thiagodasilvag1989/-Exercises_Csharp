@@ -1,0 +1,13 @@
+C:\Users\power\source\repos\Exe_133HeP\Exe_133HeP\bin\Debug\netcoreapp3.1\Exe_133HeP.exe
+C:\Users\power\source\repos\Exe_133HeP\Exe_133HeP\bin\Debug\netcoreapp3.1\Exe_133HeP.deps.json
+C:\Users\power\source\repos\Exe_133HeP\Exe_133HeP\bin\Debug\netcoreapp3.1\Exe_133HeP.runtimeconfig.json
+C:\Users\power\source\repos\Exe_133HeP\Exe_133HeP\bin\Debug\netcoreapp3.1\Exe_133HeP.runtimeconfig.dev.json
+C:\Users\power\source\repos\Exe_133HeP\Exe_133HeP\bin\Debug\netcoreapp3.1\Exe_133HeP.dll
+C:\Users\power\source\repos\Exe_133HeP\Exe_133HeP\bin\Debug\netcoreapp3.1\Exe_133HeP.pdb
+C:\Users\power\source\repos\Exe_133HeP\Exe_133HeP\obj\Debug\netcoreapp3.1\Exe_133HeP.csprojAssemblyReference.cache
+C:\Users\power\source\repos\Exe_133HeP\Exe_133HeP\obj\Debug\netcoreapp3.1\Exe_133HeP.AssemblyInfoInputs.cache
+C:\Users\power\source\repos\Exe_133HeP\Exe_133HeP\obj\Debug\netcoreapp3.1\Exe_133HeP.AssemblyInfo.cs
+C:\Users\power\source\repos\Exe_133HeP\Exe_133HeP\obj\Debug\netcoreapp3.1\Exe_133HeP.csproj.CoreCompileInputs.cache
+C:\Users\power\source\repos\Exe_133HeP\Exe_133HeP\obj\Debug\netcoreapp3.1\Exe_133HeP.dll
+C:\Users\power\source\repos\Exe_133HeP\Exe_133HeP\obj\Debug\netcoreapp3.1\Exe_133HeP.pdb
+C:\Users\power\source\repos\Exe_133HeP\Exe_133HeP\obj\Debug\netcoreapp3.1\Exe_133HeP.genruntimeconfig.cache

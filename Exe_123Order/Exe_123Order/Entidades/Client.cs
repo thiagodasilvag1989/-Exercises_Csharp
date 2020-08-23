@@ -16,7 +16,7 @@ namespace Exe_122.Entidades
         {
             Name = name;
             Email = email;
-            this.BirthDate = birthDate;
+            BirthDate = birthDate;
         }
         public Client()
         {

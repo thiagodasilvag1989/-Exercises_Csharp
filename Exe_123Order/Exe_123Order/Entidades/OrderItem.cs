@@ -28,7 +28,7 @@ namespace Exe_122
 
         public override string ToString()
         {
-            return $"{Product.Name}, ${Price.ToString("F2",CultureInfo.InvariantCulture)} , Quanntity: {Quantity}, Subtotal: ${SubTotal().ToString("F2",CultureInfo.InvariantCulture)}";
+            return $"{Product.Name}, ${Price.ToString("F2",CultureInfo.InvariantCulture)} , Quantity: {Quantity}, Subtotal: ${SubTotal().ToString("F2",CultureInfo.InvariantCulture)}";
         }
     }
 }

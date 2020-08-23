@@ -1,0 +1,13 @@
+C:\Users\power\source\repos\Exe_198Interface\Exe_198Interface\obj\Debug\netcoreapp3.1\Exe_198Interface.csprojAssemblyReference.cache
+C:\Users\power\source\repos\Exe_198Interface\Exe_198Interface\obj\Debug\netcoreapp3.1\Exe_198Interface.AssemblyInfoInputs.cache
+C:\Users\power\source\repos\Exe_198Interface\Exe_198Interface\obj\Debug\netcoreapp3.1\Exe_198Interface.AssemblyInfo.cs
+C:\Users\power\source\repos\Exe_198Interface\Exe_198Interface\obj\Debug\netcoreapp3.1\Exe_198Interface.csproj.CoreCompileInputs.cache
+C:\Users\power\source\repos\Exe_198Interface\Exe_198Interface\bin\Debug\netcoreapp3.1\Exe_198Interface.exe
+C:\Users\power\source\repos\Exe_198Interface\Exe_198Interface\bin\Debug\netcoreapp3.1\Exe_198Interface.deps.json
+C:\Users\power\source\repos\Exe_198Interface\Exe_198Interface\bin\Debug\netcoreapp3.1\Exe_198Interface.runtimeconfig.json
+C:\Users\power\source\repos\Exe_198Interface\Exe_198Interface\bin\Debug\netcoreapp3.1\Exe_198Interface.runtimeconfig.dev.json
+C:\Users\power\source\repos\Exe_198Interface\Exe_198Interface\bin\Debug\netcoreapp3.1\Exe_198Interface.dll
+C:\Users\power\source\repos\Exe_198Interface\Exe_198Interface\bin\Debug\netcoreapp3.1\Exe_198Interface.pdb
+C:\Users\power\source\repos\Exe_198Interface\Exe_198Interface\obj\Debug\netcoreapp3.1\Exe_198Interface.dll
+C:\Users\power\source\repos\Exe_198Interface\Exe_198Interface\obj\Debug\netcoreapp3.1\Exe_198Interface.pdb
+C:\Users\power\source\repos\Exe_198Interface\Exe_198Interface\obj\Debug\netcoreapp3.1\Exe_198Interface.genruntimeconfig.cache

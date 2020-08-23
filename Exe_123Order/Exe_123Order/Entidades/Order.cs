@@ -46,17 +46,17 @@ namespace Exe_122.Entidades
 
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
-            sb.AppendLine("Order Moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss"));
-            sb.AppendLine("Order Starus: " + Status);
-            sb.AppendLine("Client: " + Client);
-            sb.AppendLine("Order items:");
+            StringBuilder stringB = new StringBuilder();
+            stringB.AppendLine("Order Moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            stringB.AppendLine("Order Starus: " + Status);
+            stringB.AppendLine("Client: " + Client);
+            stringB.AppendLine("Order items:");
             foreach (OrderItem item in Items)
             {
-                sb.AppendLine(item.ToString());
+                stringB.AppendLine(item.ToString());
             }
-            sb.AppendLine("Total price: $" + Total().ToString("F2", CultureInfo.InvariantCulture));
-            return sb.ToString();
+            stringB.AppendLine("Total price: $" + Total().ToString("F2", CultureInfo.InvariantCulture));
+            return stringB.ToString();
         }
     }
 }
